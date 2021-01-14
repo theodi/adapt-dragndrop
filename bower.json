@@ -1,11 +1,12 @@
 {
     "name": "adapt-dragndrop",
-    "repository": "git://github.com/danielstorey/adapt-dragndrop.git",
-    "framework": ">=2",
-    "version": "1.3.1",
-    "homepage": "https://github.com/danielstorey/adapt-dragndrop",
+    "repository": "git://github.com/theodi/adapt-dragndrop.git",
+    "framework": ">=5",
+    "version": "2.0.0",
+    "homepage": "https://github.com/theodi/adapt-dragndrop",
     "authors": [
-        "Dan Storey <danielstorey@gmail.com>"
+        "Dan Storey <danielstorey@gmail.com>",
+        "David Tarrant <davetaz@theodi.org>"
     ],
     "description": "A fully working drag and drop question component. Nice animations when toggling between user/model answer. Demo available.",
     "main": "/js/adapt-dragndrop.js",

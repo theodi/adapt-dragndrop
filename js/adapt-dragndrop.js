@@ -1,8 +1,8 @@
 define([
     "core/js/adapt",
     "core/js/views/questionView",
-    "./jquery-ui.min",
-    "./jquery.ui.touch-punch"
+    "libraries/jquery-ui.min",
+    "libraries/jquery.ui.touch-punch"
 ], function(Adapt, QuestionView, JQueryUI, TouchPunch) {
 
 	var dragndrop = QuestionView.extend({
